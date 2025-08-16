@@ -43,16 +43,16 @@ Berpengalaman di industri **manufaktur, retail, dan jasa**, saya terbiasa mengha
 ---
 
 ## 📊 GitHub Stats
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-saputra41&show_icons=true&theme=radical)  
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rantombois&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-saputra41&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rantombois&layout=compact&theme=radical)  
 
 ---
 
 ## 🏅 Badges & Socials
-![Profile Views](https://komarev.com/ghpvc/?username=yusuf-saputra41&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/yusuf-saputra41?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/yusuf-saputra41?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=rantombois&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/rantombois?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/rantombois?style=social)  
 
 📫 **Connect with me:**  
 - 💼 LinkedIn: [yusuf-saputra41](https://linkedin.com/in/yusuf-saputra41)  
