@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yusuf-saputra41/yusuf-saputra41/main/banner.png" alt="Yusuf Saputra - Finance | Accounting | Taxation | Internal Audit" />
+</p>
+
 # 👋 Hi, I'm Yusuf Saputra  
 
 💼 **Finance, Accounting, Taxation & Internal Audit Professional**  
@@ -8,14 +12,14 @@ Berpengalaman di industri **manufaktur, retail, dan jasa**, saya terbiasa mengha
 
 ## 🧾 About Me
 - 🎓 **S1 Akuntansi - Universitas Teknologi Yogyakarta (2014–2018)**  
-- 💼 **Finance, Accounting, Taxation & Internal Audit Manager** – PT. Vetways Indonesia Group (2024 – Sekarang)  
-- 📊 Passion dalam **analisa laporan keuangan, audit internal, perpajakan, dan pengembangan sistem**  
-- 🚀 Sedang mengeksplorasi otomasi laporan dan sistem digital berbasis ERP  
+- 💼 Saat ini: **Finance, Accounting, Taxation & Internal Audit Manager** – PT. Vetways Indonesia Group  
+- 📊 Passion dalam **analisa laporan keuangan, audit internal, perpajakan, dan pengembangan sistem digital**  
+- 🚀 Sedang mengeksplorasi **automation tools & ERP** untuk mendukung efisiensi bisnis  
 
 ---
 
 ## ⚡ Skills & Expertise
-- 📂 Laporan Keuangan (Manufaktur, Dagang & Jasa)  
+- 📂 Penyusunan Laporan Keuangan (Manufaktur, Dagang & Jasa)  
 - 📊 Finance (AR/AP), Costing & Budgeting  
 - 🧾 Taxation & Compliance (Brevet A & B, Brevet Pajak)  
 - 🔍 Internal Audit & Risk Control  
@@ -26,12 +30,17 @@ Berpengalaman di industri **manufaktur, retail, dan jasa**, saya terbiasa mengha
 
 ---
 
-## 🏆 Career Highlights
-- **2024 – Now** → Manager Finance, Accounting, Taxation & Internal Audit – PT. Vetways Indonesia Group  
-- **2020 – 2024** → Finance & Accounting Supervisor – PT. Vetways Indonesia Group  
-- **2019 – 2020** → Finance & Accounting Specialist – PT. Bentonit Makmur Sentosa  
-- **2018 – 2019** → Finance & Accounting Staff – PT. Mitra Media Bangsa (JITU Group)  
-- **2017 – 2018** → Finance Intern – PT. Enggal Group  
+## 🏆 Career Journey
+**2024 – Present | Manager Finance, Accounting, Taxation & Internal Audit** – PT. Vetways Indonesia Group  
+**2020 – 2024 | Finance & Accounting Supervisor** – PT. Vetways Indonesia Group  
+**2019 – 2020 | Finance & Accounting Specialist** – PT. Bentonit Makmur Sentosa  
+**2018 – 2019 | Finance & Accounting Staff** – PT. Mitra Media Bangsa (JITU Group)  
+**2017 – 2018 | Finance Intern** – PT. Enggal Group  
+
+---
+
+## 🎓 Education
+- **Universitas Teknologi Yogyakarta** – S1 Akuntansi (2014–2018)  
 
 ---
 
